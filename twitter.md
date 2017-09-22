@@ -68,6 +68,7 @@
 | Ryan Schouten | [@shrpntknight](https://twitter.com/shrpntknight) |
 | Scott Goethals | [@sgoethals](https://twitter.com/sgoethals) |
 | Scott Harris | [@scottharris03](https://twitter.com/scottharris03) |
+| Scott Ladewig | [@ladewig](https://twitter.com/ladewig) |
 | Simon Bowley-Cornwell | [@SiCornwell](https://twitter.com/SiCornwell) |
 | Stephen Rose | [@stephenlrose](https://twitter.com/stephenlrose) |
 | Steve Crawford | [@Sysadmnninja](https://twitter.com/Sysadmnninja) |
