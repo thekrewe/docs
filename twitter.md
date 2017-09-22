@@ -8,6 +8,7 @@
 | Becky Benishek | [@bbenishek](https://twitter.com/bbenishek) |
 | Ben Montgomery | [@bmontgomery2007](https://twitter.com/bmontgomery2007) |
 | Bill Kulterman | [@billkulterman](https://twitter.com/billkulterman) |
+| Brian Roche | [@brianroche](https://twitter.com/brianroche) |
 | Britt Baubie | [@Vexillus74](https://twitter.com/Vexillus74) |
 | CA Callahan | [@cacallahan](https://twitter.com/cacallahan) |
 | Caio Proiete | [@caioproiete](https://twitter.com/caioproiete) |
