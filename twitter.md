@@ -1,5 +1,6 @@
 | Member | Twitter |
 | --- | --- |
+| Becky Benishek | [@bbenishek](https://twitter.com/bbenishek) |
 | CA Callahan | [@cacallahan](https://twitter.com/cacallahan) |
 | Carl Drechsel III | [@carl_d3](https://twitter.com/carl_d3) |
 | Chris Rhodes | [@chrisreboot](https://twitter.com/chrisreboot) |
