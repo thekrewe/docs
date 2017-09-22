@@ -2,6 +2,7 @@
 | --- | --- |
 | CA Callahan | [@cacallahan](https://twitter.com/cacallahan) |
 | Chris Rhodes | [@chrisreboot](https://twitter.com/chrisreboot) |
+| Dave Pfister | [@dwpfister](https://twitter.com/dwpfister) |
 | Ian Dick | [@mrdickuk](https://twitter.com/mrdickuk) |
 | Jeremy Miller | [@millh0use](https://twitter.com/millh0use) |
 | Joe Kelly | [@\_joekelly\_](https://twitter.com/_joekelly_) |
