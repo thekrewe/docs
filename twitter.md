@@ -10,3 +10,4 @@
 | Prayer Solanky | [@ITPrayer](https://twitter.com/ITPrayer) |
 | Steve Crawford | [@Sysadmnninja](https://twitter.com/Sysadmnninja) |
 | Steven Hosking | [@onpremcloudguy](https://twitter.com/onpremcloudguy) |
+| Tia Day | [@tiaday](https://twitter.com/tiaday) |
