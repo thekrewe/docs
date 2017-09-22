@@ -19,6 +19,7 @@
 | John Flores | [@BuckeyeGuyJFlo](https://twitter.com/BuckeyeGuyJFlo) |
 | Jon Hildebrand | [@snoopj123](https://twitter.com/snoopj123) |
 | LeAndra Jordan | [@leandrajordan](https://twitter.com/leandrajordan) |
+| Marcelo Lanzarotti | [@marcelitus](https://twitter.com/marcelitus) |
 | Mark Borkowski | [@nikonmark](https://twitter.com/nikonmark) |
 | Nick Brattoli | [@byrdttoli](https://twitter.com/byrdttoli) |
 | Prayer Solanky | [@ITPrayer](https://twitter.com/ITPrayer) |
