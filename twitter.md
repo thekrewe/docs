@@ -1,5 +1,6 @@
 | Member | Twitter |
 | --- | --- |
+| Anders Rødland | [@andersrodland](https://twitter.com/andersrodland) |
 | Becky Benishek | [@bbenishek](https://twitter.com/bbenishek) |
 | Britt Baubie | [@Vexillus74](https://twitter.com/Vexillus74) |
 | CA Callahan | [@cacallahan](https://twitter.com/cacallahan) |
