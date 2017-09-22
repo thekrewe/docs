@@ -6,6 +6,7 @@
 | Britt Baubie | [@Vexillus74](https://twitter.com/Vexillus74) |
 | CA Callahan | [@cacallahan](https://twitter.com/cacallahan) |
 | Carl Drechsel III | [@carl_d3](https://twitter.com/carl_d3) |
+| Charles Pluta | [@charlesjp](https://twitter.com/charlesjp) |
 | Chris Kuhl | [@ChrisKuhl1](https://twitter.com/ChrisKuhl1) |
 | Chris Rhodes | [@chrisreboot](https://twitter.com/chrisreboot) |
 | Chris Rhodes | [@chrisreboot](https://twitter.com/chrisreboot) |
