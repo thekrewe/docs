@@ -24,6 +24,7 @@
 | J.B. Lewis | [@AspenForester](https://twitter.com/AspenForester) |
 | Jeff Gerard | [@jeffgerard](https://twitter.com/jeffgerard) |
 | Jeremy Miller | [@millh0use](https://twitter.com/millh0use) |
+| Joe Gasper | [@ReactorJoe](https://twitter.com/ReactorJoe) |
 | Joe Kelly | [@\_joekelly\_](https://twitter.com/_joekelly_) |
 | John Flores | [@BuckeyeGuyJFlo](https://twitter.com/BuckeyeGuyJFlo) |
 | Jon Hildebrand | [@snoopj123](https://twitter.com/snoopj123) |
