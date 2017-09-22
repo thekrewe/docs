@@ -50,6 +50,7 @@
 | Steve Foster | [@brewtaki](https://twitter.com/brewtaki) |
 | Steve Maslin | [@smaslin](https://twitter.com/smaslin) |
 | Steven Hosking | [@onpremcloudguy](https://twitter.com/onpremcloudguy) |
+| Steven Hosking | [@onpremcloudguy](https://twitter.com/onpremcloudguy) |
 | Tanja Leslie | [@TysonsGirl](https://twitter.com/TysonsGirl) |
 | Thomas Kupka | [@tomkupka](https://twitter.com/tomkupka) |
 | Tia Day | [@tiaday](https://twitter.com/tiaday) |
