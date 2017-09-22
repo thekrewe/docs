@@ -35,6 +35,7 @@
 | Mark Borkowski | [@nikonmark](https://twitter.com/nikonmark) |
 | Martin Przybysz | [@lordmafi](https://twitter.com/lordmafi) |
 | Nick Brattoli | [@byrdttoli](https://twitter.com/byrdttoli) |
+| Norman Rosenthal | [@sterlingrosellc.](https://twitter.com/sterlingrosellc.) |
 | Prayer Solanky | [@ITPrayer](https://twitter.com/ITPrayer) |
 | Ryan Schouten | [@shrpntknight](https://twitter.com/shrpntknight) |
 | Scott Harris | [@scottharris03](https://twitter.com/scottharris03) |
