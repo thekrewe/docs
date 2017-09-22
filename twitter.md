@@ -21,6 +21,7 @@
 | Joe Kelly | [@\_joekelly\_](https://twitter.com/_joekelly_) |
 | John Flores | [@BuckeyeGuyJFlo](https://twitter.com/BuckeyeGuyJFlo) |
 | Jon Hildebrand | [@snoopj123](https://twitter.com/snoopj123) |
+| Larry Glickman | [@ljglickman](https://twitter.com/ljglickman) |
 | LeAndra Jordan | [@leandrajordan](https://twitter.com/leandrajordan) |
 | Marcelo Lanzarotti | [@marcelitus](https://twitter.com/marcelitus) |
 | Mark Borkowski | [@nikonmark](https://twitter.com/nikonmark) |
