@@ -46,6 +46,7 @@
 | Marcelo Lanzarotti | [@marcelitus](https://twitter.com/marcelitus) |
 | Marcos Nogueira | [@mdnoga](https://twitter.com/mdnoga) |
 | Mark Borkowski | [@nikonmark](https://twitter.com/nikonmark) |
+| Marko Loukkaanhuhta | [@loukkis](https://twitter.com/loukkis) |
 | Martin Przybysz | [@lordmafi](https://twitter.com/lordmafi) |
 | Nick Brattoli | [@byrdttoli](https://twitter.com/byrdttoli) |
 | Norman Rosenthal | [@sterlingrosellc.](https://twitter.com/sterlingrosellc.) |
