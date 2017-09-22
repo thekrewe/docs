@@ -23,6 +23,7 @@
 | Daniel Barnaby | [@daniel_barnaby](https://twitter.com/daniel_barnaby) |
 | Dave Kawula | [@davekawula](https://twitter.com/davekawula) |
 | Dave Pfister | [@dwpfister](https://twitter.com/dwpfister) |
+| Dave Stork | [@dmstork](https://twitter.com/dmstork) |
 | David Carr | [@gkrew](https://twitter.com/gkrew) |
 | David Petersen | [@dipetersen](https://twitter.com/dipetersen) |
 | Ed Baker | [@edbaker1965](https://twitter.com/edbaker1965) |
