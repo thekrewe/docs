@@ -1,5 +1,6 @@
 | Member | Twitter |
 | --- | --- |
+| Aaron D Norton | [@aarrton](https://twitter.com/aarrton) |
 | Adnan Hendricks | [@Microspecialist](https://twitter.com/Microspecialist) |
 | Alan Doran | [@AlanDoran](https://twitter.com/AlanDoran) |
 | Anders Rødland | [@andersrodland](https://twitter.com/andersrodland) |
@@ -81,7 +82,6 @@
 | René Kammer | [@kammer2000](https://twitter.com/kammer2000) |
 | Rizi Butt | [@riazjavedbutt](https://twitter.com/riazjavedbutt) |
 | Rob de Roos | [@thereflecs](https://twitter.com/thereflecs) |
-| Rodrigo Díaz Concha | [@rdiazconcha](https://twitter.com/rdiazconcha) |
 | Ryan Schouten | [@shrpntknight](https://twitter.com/shrpntknight) |
 | Sami Laiho | [@samilaiho](https://twitter.com/samilaiho) |
 | Sascha Fredrich | [@SaschaF80](https://twitter.com/SaschaF80) |
