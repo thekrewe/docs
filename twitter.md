@@ -19,6 +19,7 @@
 | Greg Altman | [@houndtech](https://twitter.com/houndtech) |
 | Harjit Dhaliwal | [@Hoorge](https://twitter.com/Hoorge) |
 | Ian Dick | [@mrdickuk](https://twitter.com/mrdickuk) |
+| J.B. Lewis | [@AspenForester](https://twitter.com/AspenForester) |
 | Jeff Gerard | [@jeffgerard](https://twitter.com/jeffgerard) |
 | Jeremy Miller | [@millh0use](https://twitter.com/millh0use) |
 | Joe Kelly | [@\_joekelly\_](https://twitter.com/_joekelly_) |
