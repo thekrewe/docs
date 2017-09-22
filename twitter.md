@@ -76,6 +76,7 @@
 | Scott Goethals | [@sgoethals](https://twitter.com/sgoethals) |
 | Scott Harris | [@scottharris03](https://twitter.com/scottharris03) |
 | Scott Ladewig | [@ladewig](https://twitter.com/ladewig) |
+| Shane Werlinger | [@ShaneDubYaa](https://twitter.com/ShaneDubYaa) |
 | Simon Bowley-Cornwell | [@SiCornwell](https://twitter.com/SiCornwell) |
 | Stephen Rose | [@stephenlrose](https://twitter.com/stephenlrose) |
 | Steve Crawford | [@Sysadmnninja](https://twitter.com/Sysadmnninja) |
