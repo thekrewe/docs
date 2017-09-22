@@ -56,6 +56,7 @@
 | Marko Loukkaanhuhta | [@loukkis](https://twitter.com/loukkis) |
 | Martin Przybysz | [@lordmafi](https://twitter.com/lordmafi) |
 | Nick Brattoli | [@byrdttoli](https://twitter.com/byrdttoli) |
+| Niklas Åkerlund | [@vniklas](https://twitter.com/vniklas) |
 | Norman Rosenthal | [@sterlingrosellc.](https://twitter.com/sterlingrosellc.) |
 | Nuno Árias Silva | [@NunoAriasSilva](https://twitter.com/NunoAriasSilva) |
 | Patrik Wennberg | [@PatrikWennberg](https://twitter.com/PatrikWennberg) |
