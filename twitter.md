@@ -49,6 +49,7 @@
 | Jon Hildebrand | [@snoopj123](https://twitter.com/snoopj123) |
 | Jorge Maia | [@jorgemaia](https://twitter.com/jorgemaia) |
 | Justin Smith | [@DarthSmitty](https://twitter.com/DarthSmitty) |
+| Katina Gee | [@Dsrdbylfe](https://twitter.com/Dsrdbylfe) |
 | Kevin Kaminski | [@kkaminsk](https://twitter.com/kkaminsk) |
 | Kyle Beckman | [@kobeckman](https://twitter.com/kobeckman) |
 | Larry Glickman | [@ljglickman](https://twitter.com/ljglickman) |
