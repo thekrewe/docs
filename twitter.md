@@ -14,6 +14,7 @@
 | Dave Pfister | [@dwpfister](https://twitter.com/dwpfister) |
 | David Carr | [@gkrew](https://twitter.com/gkrew) |
 | Emile Cabot | [@ecabot](https://twitter.com/ecabot) |
+| Frank Lempitsky | [@flempitskyonx](https://twitter.com/flempitskyonx) |
 | Greg Altman | [@houndtech](https://twitter.com/houndtech) |
 | Harjit Dhaliwal | [@Hoorge](https://twitter.com/Hoorge) |
 | Ian Dick | [@mrdickuk](https://twitter.com/mrdickuk) |
