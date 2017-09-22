@@ -53,6 +53,7 @@
 | Larry Glickman | [@ljglickman](https://twitter.com/ljglickman) |
 | LeAndra Jordan | [@leandrajordan](https://twitter.com/leandrajordan) |
 | Lesley Crook | [@lesley_wolan](https://twitter.com/lesley_wolan) |
+| Lindsay Powers | [@InfraAdm](https://twitter.com/InfraAdm) |
 | Luis Quiroz | [@luisquiroz](https://twitter.com/luisquiroz) |
 | Marcelo Lanzarotti | [@marcelitus](https://twitter.com/marcelitus) |
 | Marcos Nogueira | [@mdnoga](https://twitter.com/mdnoga) |
