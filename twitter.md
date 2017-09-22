@@ -6,6 +6,7 @@
 | Bill Kulterman | [@billkulterman](https://twitter.com/billkulterman) |
 | Britt Baubie | [@Vexillus74](https://twitter.com/Vexillus74) |
 | CA Callahan | [@cacallahan](https://twitter.com/cacallahan) |
+| Caio Proiete | [@caioproiete](https://twitter.com/caioproiete) |
 | Carl Drechsel III | [@carl_d3](https://twitter.com/carl_d3) |
 | Charles Pluta | [@charlesjp](https://twitter.com/charlesjp) |
 | Chris Kuhl | [@ChrisKuhl1](https://twitter.com/ChrisKuhl1) |
