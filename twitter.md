@@ -58,6 +58,7 @@
 | Norman Rosenthal | [@sterlingrosellc.](https://twitter.com/sterlingrosellc.) |
 | Nuno Árias Silva | [@NunoAriasSilva](https://twitter.com/NunoAriasSilva) |
 | Patrik Wennberg | [@PatrikWennberg](https://twitter.com/PatrikWennberg) |
+| Peter de Tender | [@pdtit](https://twitter.com/pdtit) |
 | Peter Wiede | [@wiededk](https://twitter.com/wiededk) |
 | Prayer Solanky | [@ITPrayer](https://twitter.com/ITPrayer) |
 | Rizi Butt | [@riazjavedbutt](https://twitter.com/riazjavedbutt) |
