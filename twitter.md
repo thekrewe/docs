@@ -68,6 +68,7 @@
 | Rizi Butt | [@riazjavedbutt](https://twitter.com/riazjavedbutt) |
 | Rob de Roos | [@thereflecs](https://twitter.com/thereflecs) |
 | Ryan Schouten | [@shrpntknight](https://twitter.com/shrpntknight) |
+| Scott Abel | [@sabel1270](https://twitter.com/sabel1270) |
 | Scott Goethals | [@sgoethals](https://twitter.com/sgoethals) |
 | Scott Harris | [@scottharris03](https://twitter.com/scottharris03) |
 | Scott Ladewig | [@ladewig](https://twitter.com/ladewig) |
