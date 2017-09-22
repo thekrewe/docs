@@ -62,3 +62,4 @@
 | Thomas Kupka | [@tomkupka](https://twitter.com/tomkupka) |
 | Tia Day | [@tiaday](https://twitter.com/tiaday) |
 | Tom Sawyer | [@thomasjsawyer](https://twitter.com/thomasjsawyer) |
+| Vamshideep Devershetty | [@vamshideep](https://twitter.com/vamshideep) |
