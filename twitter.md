@@ -27,6 +27,7 @@
 | LeAndra Jordan | [@leandrajordan](https://twitter.com/leandrajordan) |
 | Marcelo Lanzarotti | [@marcelitus](https://twitter.com/marcelitus) |
 | Mark Borkowski | [@nikonmark](https://twitter.com/nikonmark) |
+| Martin Przybysz | [@lordmafi](https://twitter.com/lordmafi) |
 | Nick Brattoli | [@byrdttoli](https://twitter.com/byrdttoli) |
 | Prayer Solanky | [@ITPrayer](https://twitter.com/ITPrayer) |
 | Scott Harris | [@scottharris03](https://twitter.com/scottharris03) |
