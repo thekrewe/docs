@@ -1,5 +1,6 @@
 | Member | Twitter |
 | --- | --- |
+| Adnan Hendricks | [@Microspecialist](https://twitter.com/Microspecialist) |
 | Anders Rødland | [@andersrodland](https://twitter.com/andersrodland) |
 | Andy Bigsby | [@acbigsby](https://twitter.com/acbigsby) |
 | Andy Syrewicze | [@asyrewicze](https://twitter.com/asyrewicze) |
