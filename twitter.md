@@ -60,6 +60,7 @@
 | Kevin Kaminski | [@kkaminsk](https://twitter.com/kkaminsk) |
 | Kyle Beckman | [@kobeckman](https://twitter.com/kobeckman) |
 | Larry Glickman | [@ljglickman](https://twitter.com/ljglickman) |
+| Larry Waller | [@tecableguy](https://twitter.com/tecableguy) |
 | LeAndra Jordan | [@leandrajordan](https://twitter.com/leandrajordan) |
 | Lesley Crook | [@lesley_wolan](https://twitter.com/lesley_wolan) |
 | Lindsay Powers | [@InfraAdm](https://twitter.com/InfraAdm) |
