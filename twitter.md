@@ -33,6 +33,7 @@
 | Larry Glickman | [@ljglickman](https://twitter.com/ljglickman) |
 | LeAndra Jordan | [@leandrajordan](https://twitter.com/leandrajordan) |
 | Marcelo Lanzarotti | [@marcelitus](https://twitter.com/marcelitus) |
+| Marcos Nogueira | [@mdnoga](https://twitter.com/mdnoga) |
 | Mark Borkowski | [@nikonmark](https://twitter.com/nikonmark) |
 | Martin Przybysz | [@lordmafi](https://twitter.com/lordmafi) |
 | Nick Brattoli | [@byrdttoli](https://twitter.com/byrdttoli) |
