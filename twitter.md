@@ -6,6 +6,7 @@
 | Carl Drechsel III | [@carl_d3](https://twitter.com/carl_d3) |
 | Chris Kuhl | [@ChrisKuhl1](https://twitter.com/ChrisKuhl1) |
 | Chris Rhodes | [@chrisreboot](https://twitter.com/chrisreboot) |
+| Chris Rivers | [@t3hcr](https://twitter.com/t3hcr) |
 | Cristal Kawula | [@SuperCristal1](https://twitter.com/SuperCristal1) |
 | Damian Yost | [@isrealdamian](https://twitter.com/isrealdamian) |
 | Daniel Barnaby | [@daniel_barnaby](https://twitter.com/daniel_barnaby) |
