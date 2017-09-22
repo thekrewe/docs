@@ -50,6 +50,7 @@
 | Martin Przybysz | [@lordmafi](https://twitter.com/lordmafi) |
 | Nick Brattoli | [@byrdttoli](https://twitter.com/byrdttoli) |
 | Norman Rosenthal | [@sterlingrosellc.](https://twitter.com/sterlingrosellc.) |
+| Nuno Árias Silva | [@NunoAriasSilva](https://twitter.com/NunoAriasSilva) |
 | Patrik Wennberg | [@PatrikWennberg](https://twitter.com/PatrikWennberg) |
 | Peter Wiede | [@wiededk](https://twitter.com/wiededk) |
 | Prayer Solanky | [@ITPrayer](https://twitter.com/ITPrayer) |
