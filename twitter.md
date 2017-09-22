@@ -66,6 +66,7 @@
 | Mark Borkowski | [@nikonmark](https://twitter.com/nikonmark) |
 | Marko Loukkaanhuhta | [@loukkis](https://twitter.com/loukkis) |
 | Martin Przybysz | [@lordmafi](https://twitter.com/lordmafi) |
+| Michael L. Trotter | [@mltrotter](https://twitter.com/mltrotter) |
 | Nick Brattoli | [@byrdttoli](https://twitter.com/byrdttoli) |
 | Niklas Åkerlund | [@vniklas](https://twitter.com/vniklas) |
 | Norman Rosenthal | [@sterlingrosellc.](https://twitter.com/sterlingrosellc.) |
