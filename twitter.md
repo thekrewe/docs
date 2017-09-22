@@ -32,6 +32,7 @@
 | Nick Brattoli | [@byrdttoli](https://twitter.com/byrdttoli) |
 | Prayer Solanky | [@ITPrayer](https://twitter.com/ITPrayer) |
 | Scott Harris | [@scottharris03](https://twitter.com/scottharris03) |
+| Stephen Rose | [@stephenlrose](https://twitter.com/stephenlrose) |
 | Steve Crawford | [@Sysadmnninja](https://twitter.com/Sysadmnninja) |
 | Steven Hosking | [@onpremcloudguy](https://twitter.com/onpremcloudguy) |
 | Tanja Leslie | [@TysonsGirl](https://twitter.com/TysonsGirl) |
