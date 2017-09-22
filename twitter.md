@@ -23,6 +23,7 @@
 | Dave Pfister | [@dwpfister](https://twitter.com/dwpfister) |
 | David Carr | [@gkrew](https://twitter.com/gkrew) |
 | David Petersen | [@dipetersen](https://twitter.com/dipetersen) |
+| Ed Baker | [@edbaker1965](https://twitter.com/edbaker1965) |
 | Elias Mereb | [@emereb](https://twitter.com/emereb) |
 | Emile Cabot | [@ecabot](https://twitter.com/ecabot) |
 | Frank Lempitsky | [@flempitskyonx](https://twitter.com/flempitskyonx) |
