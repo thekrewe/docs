@@ -19,6 +19,7 @@
 | Chris Rhodes | [@chrisreboot](https://twitter.com/chrisreboot) |
 | Chris Rhodes | [@chrisreboot](https://twitter.com/chrisreboot) |
 | Chris Rivers | [@t3hcr](https://twitter.com/t3hcr) |
+| Christian Campbell | [@cthesoup](https://twitter.com/cthesoup) |
 | Chuck Richards | [@chuck_richards](https://twitter.com/chuck_richards) |
 | Claudia Perez | [@clauperez](https://twitter.com/clauperez) |
 | Corey Johnston | [@milesahead22](https://twitter.com/milesahead22) |
