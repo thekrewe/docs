@@ -6,6 +6,7 @@
 | Chris Rhodes | [@chrisreboot](https://twitter.com/chrisreboot) |
 | Cristal Kawula | [@SuperCristal1](https://twitter.com/SuperCristal1) |
 | Damian Yost | [@isrealdamian](https://twitter.com/isrealdamian) |
+| Daniel Barnaby | [@daniel_barnaby](https://twitter.com/daniel_barnaby) |
 | Dave Kawula | [@davekawula](https://twitter.com/davekawula) |
 | Dave Pfister | [@dwpfister](https://twitter.com/dwpfister) |
 | Greg Altman | [@houndtech](https://twitter.com/houndtech) |
