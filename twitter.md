@@ -39,6 +39,7 @@
 | Stephen Rose | [@stephenlrose](https://twitter.com/stephenlrose) |
 | Steve Crawford | [@Sysadmnninja](https://twitter.com/Sysadmnninja) |
 | Steve Foster | [@brewtaki](https://twitter.com/brewtaki) |
+| Steve Maslin | [@smaslin](https://twitter.com/smaslin) |
 | Steven Hosking | [@onpremcloudguy](https://twitter.com/onpremcloudguy) |
 | Tanja Leslie | [@TysonsGirl](https://twitter.com/TysonsGirl) |
 | Thomas Kupka | [@tomkupka](https://twitter.com/tomkupka) |
