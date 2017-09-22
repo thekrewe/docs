@@ -30,6 +30,7 @@
 | Jorge Maia | [@jorgemaia](https://twitter.com/jorgemaia) |
 | Justin Smith | [@DarthSmitty](https://twitter.com/DarthSmitty) |
 | Kevin Kaminski | [@kkaminsk](https://twitter.com/kkaminsk) |
+| Kyle Beckman | [@kobeckman](https://twitter.com/kobeckman) |
 | Larry Glickman | [@ljglickman](https://twitter.com/ljglickman) |
 | LeAndra Jordan | [@leandrajordan](https://twitter.com/leandrajordan) |
 | Marcelo Lanzarotti | [@marcelitus](https://twitter.com/marcelitus) |
