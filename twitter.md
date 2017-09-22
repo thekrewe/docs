@@ -1,6 +1,7 @@
 | Member | Twitter |
 | --- | --- |
 | Anders Rødland | [@andersrodland](https://twitter.com/andersrodland) |
+| Andy Bigsby | [@acbigsby](https://twitter.com/acbigsby) |
 | Andy Syrewicze | [@asyrewicze](https://twitter.com/asyrewicze) |
 | Becky Benishek | [@bbenishek](https://twitter.com/bbenishek) |
 | Bill Kulterman | [@billkulterman](https://twitter.com/billkulterman) |
