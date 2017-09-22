@@ -6,6 +6,7 @@
 | Chris Rhodes | [@chrisreboot](https://twitter.com/chrisreboot) |
 | Cristal Kawula | [@SuperCristal1](https://twitter.com/SuperCristal1) |
 | Dave Pfister | [@dwpfister](https://twitter.com/dwpfister) |
+| Greg Altman | [@houndtech](https://twitter.com/houndtech) |
 | Ian Dick | [@mrdickuk](https://twitter.com/mrdickuk) |
 | Jeremy Miller | [@millh0use](https://twitter.com/millh0use) |
 | Joe Kelly | [@\_joekelly\_](https://twitter.com/_joekelly_) |
