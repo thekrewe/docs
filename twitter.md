@@ -11,6 +11,7 @@
 | Greg Altman | [@houndtech](https://twitter.com/houndtech) |
 | Harjit Dhaliwal | [@Hoorge](https://twitter.com/Hoorge) |
 | Ian Dick | [@mrdickuk](https://twitter.com/mrdickuk) |
+| Jeff Gerard | [@jeffgerard](https://twitter.com/jeffgerard) |
 | Jeremy Miller | [@millh0use](https://twitter.com/millh0use) |
 | Joe Kelly | [@\_joekelly\_](https://twitter.com/_joekelly_) |
 | John Flores | [@BuckeyeGuyJFlo](https://twitter.com/BuckeyeGuyJFlo) |
