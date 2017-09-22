@@ -31,6 +31,7 @@
 | Emile Cabot | [@ecabot](https://twitter.com/ecabot) |
 | Frank Lempitsky | [@flempitskyonx](https://twitter.com/flempitskyonx) |
 | Fredrik Nilsson | [@fredriknilsson_](https://twitter.com/fredriknilsson_) |
+| Gigi Wizzington | [@giiwiz](https://twitter.com/giiwiz) |
 | Greg Altman | [@houndtech](https://twitter.com/houndtech) |
 | Harjit Dhaliwal | [@Hoorge](https://twitter.com/Hoorge) |
 | Ian Dick | [@mrdickuk](https://twitter.com/mrdickuk) |
