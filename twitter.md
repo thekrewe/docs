@@ -1,6 +1,7 @@
 | Member | Twitter |
 | --- | --- |
 | Becky Benishek | [@bbenishek](https://twitter.com/bbenishek) |
+| Britt Baubie | [@Vexillus74](https://twitter.com/Vexillus74) |
 | CA Callahan | [@cacallahan](https://twitter.com/cacallahan) |
 | Carl Drechsel III | [@carl_d3](https://twitter.com/carl_d3) |
 | Chris Kuhl | [@ChrisKuhl1](https://twitter.com/ChrisKuhl1) |
