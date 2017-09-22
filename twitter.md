@@ -48,6 +48,7 @@
 | Jeremy Sihassen | [@jsihassen](https://twitter.com/jsihassen) |
 | Joe Gasper | [@ReactorJoe](https://twitter.com/ReactorJoe) |
 | Joe Kelly | [@\_joekelly\_](https://twitter.com/_joekelly_) |
+| Joey Snow | [@joeysnow](https://twitter.com/joeysnow) |
 | John Flores | [@BuckeyeGuyJFlo](https://twitter.com/BuckeyeGuyJFlo) |
 | Jon Hildebrand | [@snoopj123](https://twitter.com/snoopj123) |
 | Jorge Maia | [@jorgemaia](https://twitter.com/jorgemaia) |
