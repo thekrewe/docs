@@ -28,6 +28,7 @@
 | Mark Borkowski | [@nikonmark](https://twitter.com/nikonmark) |
 | Nick Brattoli | [@byrdttoli](https://twitter.com/byrdttoli) |
 | Prayer Solanky | [@ITPrayer](https://twitter.com/ITPrayer) |
+| Scott Harris | [@scottharris03](https://twitter.com/scottharris03) |
 | Steve Crawford | [@Sysadmnninja](https://twitter.com/Sysadmnninja) |
 | Steven Hosking | [@onpremcloudguy](https://twitter.com/onpremcloudguy) |
 | Tanja Leslie | [@TysonsGirl](https://twitter.com/TysonsGirl) |
