@@ -11,6 +11,7 @@
 | CA Callahan | [@cacallahan](https://twitter.com/cacallahan) |
 | Caio Proiete | [@caioproiete](https://twitter.com/caioproiete) |
 | Carl Drechsel III | [@carl_d3](https://twitter.com/carl_d3) |
+| Chad Smith | [@punkrockguy](https://twitter.com/punkrockguy) |
 | Charles Pluta | [@charlesjp](https://twitter.com/charlesjp) |
 | Chris Kuhl | [@ChrisKuhl1](https://twitter.com/ChrisKuhl1) |
 | Chris Rhodes | [@chrisreboot](https://twitter.com/chrisreboot) |
