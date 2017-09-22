@@ -83,6 +83,7 @@
 | Rob de Roos | [@thereflecs](https://twitter.com/thereflecs) |
 | Ryan Schouten | [@shrpntknight](https://twitter.com/shrpntknight) |
 | Sami Laiho | [@samilaiho](https://twitter.com/samilaiho) |
+| Sascha Fredrich | [@SaschaF80](https://twitter.com/SaschaF80) |
 | Scott Abel | [@sabel1270](https://twitter.com/sabel1270) |
 | Scott Goethals | [@sgoethals](https://twitter.com/sgoethals) |
 | Scott Harris | [@scottharris03](https://twitter.com/scottharris03) |
