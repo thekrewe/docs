@@ -30,6 +30,7 @@
 | Elias Mereb | [@emereb](https://twitter.com/emereb) |
 | Emile Cabot | [@ecabot](https://twitter.com/ecabot) |
 | Frank Lempitsky | [@flempitskyonx](https://twitter.com/flempitskyonx) |
+| Fredrik Nilsson | [@fredriknilsson_](https://twitter.com/fredriknilsson_) |
 | Greg Altman | [@houndtech](https://twitter.com/houndtech) |
 | Harjit Dhaliwal | [@Hoorge](https://twitter.com/Hoorge) |
 | Ian Dick | [@mrdickuk](https://twitter.com/mrdickuk) |
