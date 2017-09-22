@@ -86,6 +86,7 @@
 | Thomas Kupka | [@tomkupka](https://twitter.com/tomkupka) |
 | Tia Day | [@tiaday](https://twitter.com/tiaday) |
 | Tiago Costa | [@tiagocostapt](https://twitter.com/tiagocostapt) |
+| Tim Mitchell | [@Tim_Mitchell](https://twitter.com/Tim_Mitchell) |
 | Tom Sawyer | [@thomasjsawyer](https://twitter.com/thomasjsawyer) |
 | Tyson Leslie | [@invisigreen](https://twitter.com/invisigreen) |
 | Vamshideep Devershetty | [@vamshideep](https://twitter.com/vamshideep) |
