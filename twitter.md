@@ -40,6 +40,7 @@
 | Norman Rosenthal | [@sterlingrosellc.](https://twitter.com/sterlingrosellc.) |
 | Prayer Solanky | [@ITPrayer](https://twitter.com/ITPrayer) |
 | Ryan Schouten | [@shrpntknight](https://twitter.com/shrpntknight) |
+| Scott Goethals | [@sgoethals](https://twitter.com/sgoethals) |
 | Scott Harris | [@scottharris03](https://twitter.com/scottharris03) |
 | Stephen Rose | [@stephenlrose](https://twitter.com/stephenlrose) |
 | Steve Crawford | [@Sysadmnninja](https://twitter.com/Sysadmnninja) |
