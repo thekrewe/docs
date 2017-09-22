@@ -42,6 +42,7 @@
 | Gigi Wizzington | [@giiwiz](https://twitter.com/giiwiz) |
 | Greg Altman | [@houndtech](https://twitter.com/houndtech) |
 | Harjit Dhaliwal | [@Hoorge](https://twitter.com/Hoorge) |
+| Harold Gale | [@1wisegeek](https://twitter.com/1wisegeek) |
 | Ian Dick | [@mrdickuk](https://twitter.com/mrdickuk) |
 | J.B. Lewis | [@AspenForester](https://twitter.com/AspenForester) |
 | Jeff Gerard | [@jeffgerard](https://twitter.com/jeffgerard) |
