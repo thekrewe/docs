@@ -73,6 +73,7 @@
 | Tanja Leslie | [@TysonsGirl](https://twitter.com/TysonsGirl) |
 | Thomas Kupka | [@tomkupka](https://twitter.com/tomkupka) |
 | Tia Day | [@tiaday](https://twitter.com/tiaday) |
+| Tiago Costa | [@tiagocostapt](https://twitter.com/tiagocostapt) |
 | Tom Sawyer | [@thomasjsawyer](https://twitter.com/thomasjsawyer) |
 | Tyson Leslie | [@invisigreen](https://twitter.com/invisigreen) |
 | Vamshideep Devershetty | [@vamshideep](https://twitter.com/vamshideep) |
