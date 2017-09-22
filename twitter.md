@@ -83,6 +83,7 @@
 | Shane Werlinger | [@ShaneDubYaa](https://twitter.com/ShaneDubYaa) |
 | Simon Bowley-Cornwell | [@SiCornwell](https://twitter.com/SiCornwell) |
 | Stephen Rose | [@stephenlrose](https://twitter.com/stephenlrose) |
+| Steve Campbell | [@soupman98](https://twitter.com/soupman98) |
 | Steve Crawford | [@Sysadmnninja](https://twitter.com/Sysadmnninja) |
 | Steve Ens | [@iwearspeedosundermypants](https://twitter.com/iwearspeedosundermypants) |
 | Steve Foster | [@brewtaki](https://twitter.com/brewtaki) |
