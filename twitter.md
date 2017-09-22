@@ -71,6 +71,7 @@
 | Peter de Tender | [@pdtit](https://twitter.com/pdtit) |
 | Peter Wiede | [@wiededk](https://twitter.com/wiededk) |
 | Prayer Solanky | [@ITPrayer](https://twitter.com/ITPrayer) |
+| René Kammer | [@kammer2000](https://twitter.com/kammer2000) |
 | Rizi Butt | [@riazjavedbutt](https://twitter.com/riazjavedbutt) |
 | Rob de Roos | [@thereflecs](https://twitter.com/thereflecs) |
 | Ryan Schouten | [@shrpntknight](https://twitter.com/shrpntknight) |
