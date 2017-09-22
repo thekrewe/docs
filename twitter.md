@@ -45,6 +45,7 @@
 | Kyle Beckman | [@kobeckman](https://twitter.com/kobeckman) |
 | Larry Glickman | [@ljglickman](https://twitter.com/ljglickman) |
 | LeAndra Jordan | [@leandrajordan](https://twitter.com/leandrajordan) |
+| Luis Quiroz | [@luisquiroz](https://twitter.com/luisquiroz) |
 | Marcelo Lanzarotti | [@marcelitus](https://twitter.com/marcelitus) |
 | Marcos Nogueira | [@mdnoga](https://twitter.com/mdnoga) |
 | Mark Borkowski | [@nikonmark](https://twitter.com/nikonmark) |
