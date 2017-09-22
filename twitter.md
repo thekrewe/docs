@@ -3,6 +3,7 @@
 | Anders Rødland | [@andersrodland](https://twitter.com/andersrodland) |
 | Andy Syrewicze | [@asyrewicze](https://twitter.com/asyrewicze) |
 | Becky Benishek | [@bbenishek](https://twitter.com/bbenishek) |
+| Bill Kulterman | [@billkulterman](https://twitter.com/billkulterman) |
 | Britt Baubie | [@Vexillus74](https://twitter.com/Vexillus74) |
 | CA Callahan | [@cacallahan](https://twitter.com/cacallahan) |
 | Carl Drechsel III | [@carl_d3](https://twitter.com/carl_d3) |
