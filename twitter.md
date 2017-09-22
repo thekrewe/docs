@@ -22,6 +22,7 @@
 | Dave Pfister | [@dwpfister](https://twitter.com/dwpfister) |
 | David Carr | [@gkrew](https://twitter.com/gkrew) |
 | David Petersen | [@dipetersen](https://twitter.com/dipetersen) |
+| Elias Mereb | [@emereb](https://twitter.com/emereb) |
 | Emile Cabot | [@ecabot](https://twitter.com/ecabot) |
 | Frank Lempitsky | [@flempitskyonx](https://twitter.com/flempitskyonx) |
 | Greg Altman | [@houndtech](https://twitter.com/houndtech) |
