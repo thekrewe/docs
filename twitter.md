@@ -15,6 +15,7 @@
 | Chad Smith | [@punkrockguy](https://twitter.com/punkrockguy) |
 | Charles Pluta | [@charlesjp](https://twitter.com/charlesjp) |
 | Chris Kuhl | [@ChrisKuhl1](https://twitter.com/ChrisKuhl1) |
+| Chris Noyes | [@c_noyes](https://twitter.com/c_noyes) |
 | Chris Rhodes | [@chrisreboot](https://twitter.com/chrisreboot) |
 | Chris Rhodes | [@chrisreboot](https://twitter.com/chrisreboot) |
 | Chris Rivers | [@t3hcr](https://twitter.com/t3hcr) |
