@@ -25,6 +25,7 @@
 | Jon Hildebrand | [@snoopj123](https://twitter.com/snoopj123) |
 | Jorge Maia | [@jorgemaia](https://twitter.com/jorgemaia) |
 | Justin Smith | [@DarthSmitty](https://twitter.com/DarthSmitty) |
+| Kevin Kaminski | [@kkaminsk](https://twitter.com/kkaminsk) |
 | Larry Glickman | [@ljglickman](https://twitter.com/ljglickman) |
 | LeAndra Jordan | [@leandrajordan](https://twitter.com/leandrajordan) |
 | Marcelo Lanzarotti | [@marcelitus](https://twitter.com/marcelitus) |
