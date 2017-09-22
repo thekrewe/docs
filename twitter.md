@@ -11,6 +11,7 @@
 | Daniel Barnaby | [@daniel_barnaby](https://twitter.com/daniel_barnaby) |
 | Dave Kawula | [@davekawula](https://twitter.com/davekawula) |
 | Dave Pfister | [@dwpfister](https://twitter.com/dwpfister) |
+| Emile Cabot | [@ecabot](https://twitter.com/ecabot) |
 | Greg Altman | [@houndtech](https://twitter.com/houndtech) |
 | Harjit Dhaliwal | [@Hoorge](https://twitter.com/Hoorge) |
 | Ian Dick | [@mrdickuk](https://twitter.com/mrdickuk) |
