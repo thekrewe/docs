@@ -18,4 +18,5 @@
 | Prayer Solanky | [@ITPrayer](https://twitter.com/ITPrayer) |
 | Steve Crawford | [@Sysadmnninja](https://twitter.com/Sysadmnninja) |
 | Steven Hosking | [@onpremcloudguy](https://twitter.com/onpremcloudguy) |
+| Thomas Kupka | [@tomkupka](https://twitter.com/tomkupka) |
 | Tia Day | [@tiaday](https://twitter.com/tiaday) |
