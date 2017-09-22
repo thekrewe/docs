@@ -16,6 +16,7 @@
 | Chris Rhodes | [@chrisreboot](https://twitter.com/chrisreboot) |
 | Chris Rivers | [@t3hcr](https://twitter.com/t3hcr) |
 | Chuck Richards | [@chuck_richards](https://twitter.com/chuck_richards) |
+| Claudia Perez | [@clauperez](https://twitter.com/clauperez) |
 | Cristal Kawula | [@SuperCristal1](https://twitter.com/SuperCristal1) |
 | Damian Yost | [@isrealdamian](https://twitter.com/isrealdamian) |
 | Daniel Barnaby | [@daniel_barnaby](https://twitter.com/daniel_barnaby) |
