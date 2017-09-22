@@ -46,6 +46,7 @@
 | Norman Rosenthal | [@sterlingrosellc.](https://twitter.com/sterlingrosellc.) |
 | Peter Wiede | [@wiededk](https://twitter.com/wiededk) |
 | Prayer Solanky | [@ITPrayer](https://twitter.com/ITPrayer) |
+| Rizi Butt | [@riazjavedbutt](https://twitter.com/riazjavedbutt) |
 | Ryan Schouten | [@shrpntknight](https://twitter.com/shrpntknight) |
 | Scott Goethals | [@sgoethals](https://twitter.com/sgoethals) |
 | Scott Harris | [@scottharris03](https://twitter.com/scottharris03) |
