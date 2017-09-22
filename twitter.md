@@ -3,6 +3,7 @@
 | Becky Benishek | [@bbenishek](https://twitter.com/bbenishek) |
 | CA Callahan | [@cacallahan](https://twitter.com/cacallahan) |
 | Carl Drechsel III | [@carl_d3](https://twitter.com/carl_d3) |
+| Chris Kuhl | [@ChrisKuhl1](https://twitter.com/ChrisKuhl1) |
 | Chris Rhodes | [@chrisreboot](https://twitter.com/chrisreboot) |
 | Cristal Kawula | [@SuperCristal1](https://twitter.com/SuperCristal1) |
 | Damian Yost | [@isrealdamian](https://twitter.com/isrealdamian) |
