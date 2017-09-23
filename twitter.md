@@ -11,6 +11,7 @@
 | Bill Kulterman | [@billkulterman](https://twitter.com/billkulterman) |
 | Bjarne Duelund | [@BDuelund](https://twitter.com/BDuelund) |
 | Blaise Dunn | [@blaise00](https://twitter.com/blaise00) |
+| Brett LaBare | [@1labare](https://twitter.com/1labare) |
 | Brian Roche | [@brianroche](https://twitter.com/brianroche) |
 | Britt Baubie | [@Vexillus74](https://twitter.com/Vexillus74) |
 | CA Callahan | [@cacallahan](https://twitter.com/cacallahan) |
