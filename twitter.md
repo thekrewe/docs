@@ -9,7 +9,7 @@
 | Becky Benishek | [@bbenishek](https://twitter.com/bbenishek) |
 | Ben Montgomery | [@bmontgomery2007](https://twitter.com/bmontgomery2007) |
 | Bill Kulterman | [@billkulterman](https://twitter.com/billkulterman) |
-| Bjarne Duelund | [@BDuelund](https://twitter.com/bduelund) |
+| Bjarne Duelund | [@BDuelund](https://twitter.com/BDuelund) |
 | Blaise Dunn | [@blaise00](https://twitter.com/blaise00) |
 | Brian Roche | [@brianroche](https://twitter.com/brianroche) |
 | Britt Baubie | [@Vexillus74](https://twitter.com/Vexillus74) |
@@ -86,6 +86,7 @@
 | René Kammer | [@kammer2000](https://twitter.com/kammer2000) |
 | Rizi Butt | [@riazjavedbutt](https://twitter.com/riazjavedbutt) |
 | Rob de Roos | [@thereflecs](https://twitter.com/thereflecs) |
+| Rodrigo Díaz Concha | [@rdiazconcha](https://twitter.com/rdiazconcha) |
 | Ryan Schouten | [@shrpntknight](https://twitter.com/shrpntknight) |
 | Sami Laiho | [@samilaiho](https://twitter.com/samilaiho) |
 | Sascha Fredrich | [@SaschaF80](https://twitter.com/SaschaF80) |
