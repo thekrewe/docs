@@ -9,6 +9,7 @@
 | Becky Benishek | [@bbenishek](https://twitter.com/bbenishek) |
 | Ben Montgomery | [@bmontgomery2007](https://twitter.com/bmontgomery2007) |
 | Bill Kulterman | [@billkulterman](https://twitter.com/billkulterman) |
+| Bjarne Duelund | [@BDuelund](https://twitter.com/bduelund) |
 | Blaise Dunn | [@blaise00](https://twitter.com/blaise00) |
 | Brian Roche | [@brianroche](https://twitter.com/brianroche) |
 | Britt Baubie | [@Vexillus74](https://twitter.com/Vexillus74) |
