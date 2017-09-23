@@ -52,6 +52,7 @@
 | Jeff Gerard | [@jeffgerard](https://twitter.com/jeffgerard) |
 | Jeremy Miller | [@millh0use](https://twitter.com/millh0use) |
 | Jeremy Sihassen | [@jsihassen](https://twitter.com/jsihassen) |
+| Jim Hamby | [@TheJimHamby](https://twitter.com/TheJimHamby) |
 | Joe Gasper | [@ReactorJoe](https://twitter.com/ReactorJoe) |
 | Joe Kelly | [@\_joekelly\_](https://twitter.com/_joekelly_) |
 | Joey Snow | [@joeysnow](https://twitter.com/joeysnow) |
