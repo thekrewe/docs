@@ -31,6 +31,7 @@
 | Cristal Kawula | [@SuperCristal1](https://twitter.com/SuperCristal1) |
 | Damian Yost | [@isrealdamian](https://twitter.com/isrealdamian) |
 | Daniel Barnaby | [@daniel_barnaby](https://twitter.com/daniel_barnaby) |
+| Daniel Stinson | [@XxSpOoKeYxX](https://twitter.com/XxSpOoKeYxX) |
 | Dave Kawula | [@davekawula](https://twitter.com/davekawula) |
 | Dave Pfister | [@dwpfister](https://twitter.com/dwpfister) |
 | Dave Stork | [@dmstork](https://twitter.com/dmstork) |
