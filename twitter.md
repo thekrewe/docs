@@ -38,6 +38,7 @@
 | David Petersen | [@dipetersen](https://twitter.com/dipetersen) |
 | Denise Begley | [@Begley_D](https://twitter.com/Begley_D) |
 | Dennis Coplen | [@Denny968](https://twitter.com/Denny968) |
+| Denny Cherry | [@Mrdenny](https://twitter.com/Mrdenny) |
 | Duncan McAlynn | [@infosecwar](https://twitter.com/infosecwar) |
 | Ed Baker | [@edbaker1965](https://twitter.com/edbaker1965) |
 | Elias Mereb | [@emereb](https://twitter.com/emereb) |
