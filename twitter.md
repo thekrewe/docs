@@ -37,6 +37,7 @@
 | David Carr | [@gkrew](https://twitter.com/gkrew) |
 | David Petersen | [@dipetersen](https://twitter.com/dipetersen) |
 | Denise Begley | [@Begley_D](https://twitter.com/Begley_D) |
+| Dennis Coplen | [@Denny968](https://twitter.com/Denny968) |
 | Duncan McAlynn | [@infosecwar](https://twitter.com/infosecwar) |
 | Ed Baker | [@edbaker1965](https://twitter.com/edbaker1965) |
 | Elias Mereb | [@emereb](https://twitter.com/emereb) |
