@@ -61,6 +61,7 @@
 | Joe Gasper | [@ReactorJoe](https://twitter.com/ReactorJoe) |
 | Joe Kelly | [@\_joekelly\_](https://twitter.com/_joekelly_) |
 | Joey Snow | [@joeysnow](https://twitter.com/joeysnow) |
+| John Deardurff | [@John_Deardurff](https://twitter.com/John_Deardurff) |
 | John Flores | [@BuckeyeGuyJFlo](https://twitter.com/BuckeyeGuyJFlo) |
 | John Sterrett | [@JohnSterrett](https://twitter.com/JohnSterrett) |
 | Jon Hildebrand | [@snoopj123](https://twitter.com/snoopj123) |
