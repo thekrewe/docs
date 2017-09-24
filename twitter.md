@@ -84,6 +84,7 @@
 | Mark Borkowski | [@nikonmark](https://twitter.com/nikonmark) |
 | Marko Loukkaanhuhta | [@loukkis](https://twitter.com/loukkis) |
 | Martin Przybysz | [@lordmafi](https://twitter.com/lordmafi) |
+| Mason Richard | [@mrich383](https://twitter.com/mrich383) |
 | Michael L. Trotter | [@mltrotter](https://twitter.com/mltrotter) |
 | Michael O'Kelly | [@okellymk](https://twitter.com/okellymk) |
 | Nick Brattoli | [@byrdttoli](https://twitter.com/byrdttoli) |
