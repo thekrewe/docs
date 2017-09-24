@@ -118,6 +118,7 @@
 | Steve Maslin | [@smaslin](https://twitter.com/smaslin) |
 | Steven Hosking | [@onpremcloudguy](https://twitter.com/onpremcloudguy) |
 | Steven Hosking | [@onpremcloudguy](https://twitter.com/onpremcloudguy) |
+| Stuart Williamson | [@Beany_for_ever](https://twitter.com/Beany_for_ever) |
 | Tanja Leslie | [@TysonsGirl](https://twitter.com/TysonsGirl) |
 | Tech Konnect | [@TechKonnect](https://twitter.com/TechKonnect) |
 | Thomas Kupka | [@tomkupka](https://twitter.com/tomkupka) |
