@@ -92,6 +92,7 @@
 | Peter de Tender | [@pdtit](https://twitter.com/pdtit) |
 | Peter Wiede | [@wiededk](https://twitter.com/wiededk) |
 | Phil Erb | [@philerb](https://twitter.com/philerb) |
+| Pierre Roman | [@pierreroman](https://twitter.com/pierreroman) |
 | Prayer Solanky | [@ITPrayer](https://twitter.com/ITPrayer) |
 | René Kammer | [@kammer2000](https://twitter.com/kammer2000) |
 | Rizi Butt | [@riazjavedbutt](https://twitter.com/riazjavedbutt) |
