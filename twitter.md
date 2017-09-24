@@ -100,6 +100,7 @@
 | Rizi Butt | [@riazjavedbutt](https://twitter.com/riazjavedbutt) |
 | Rob de Roos | [@thereflecs](https://twitter.com/thereflecs) |
 | Rodrigo Díaz Concha | [@rdiazconcha](https://twitter.com/rdiazconcha) |
+| Ryan Breneman | [@RyGuy635](https://twitter.com/RyGuy635) |
 | Ryan Schouten | [@shrpntknight](https://twitter.com/shrpntknight) |
 | Sami Laiho | [@samilaiho](https://twitter.com/samilaiho) |
 | Sascha Fredrich | [@SaschaF80](https://twitter.com/SaschaF80) |
