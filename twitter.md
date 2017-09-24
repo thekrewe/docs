@@ -51,6 +51,7 @@
 | Gary Blatt | [@sharepointgaryb](https://twitter.com/sharepointgaryb) |
 | Gigi Wizzington | [@giiwiz](https://twitter.com/giiwiz) |
 | Greg Altman | [@houndtech](https://twitter.com/houndtech) |
+| Hal Hostetler | [@tvwizard](https://twitter.com/tvwizard) |
 | Harjit Dhaliwal | [@Hoorge](https://twitter.com/Hoorge) |
 | Harold Gale | [@1wisegeek](https://twitter.com/1wisegeek) |
 | Ian Dick | [@mrdickuk](https://twitter.com/mrdickuk) |
