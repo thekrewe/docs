@@ -92,6 +92,7 @@
 | Norman Rosenthal | [@sterlingrosellc.](https://twitter.com/sterlingrosellc.) |
 | Nuno Árias Silva | [@NunoAriasSilva](https://twitter.com/NunoAriasSilva) |
 | Patrik Wennberg | [@PatrikWennberg](https://twitter.com/PatrikWennberg) |
+| Paulo Morgado | [@PauloMorgado](https://twitter.com/PauloMorgado) |
 | Peter de Tender | [@pdtit](https://twitter.com/pdtit) |
 | Peter Wiede | [@wiededk](https://twitter.com/wiededk) |
 | Phil Erb | [@philerb](https://twitter.com/philerb) |
