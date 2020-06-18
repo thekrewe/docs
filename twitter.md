@@ -15,7 +15,7 @@
 | Brian Roche | [@brianroche](https://twitter.com/brianroche) |
 | Britt Baubie | [@Vexillus74](https://twitter.com/Vexillus74) |
 | CA Callahan | [@cacallahan](https://twitter.com/cacallahan) |
-| Caio Proiete | [@caioproiete](https://twitter.com/caioproiete) |
+| C. Augusto Proiete | [@augustoproiete](https://twitter.com/augustoproiete) |
 | Carl Drechsel III | [@carl_d3](https://twitter.com/carl_d3) |
 | Chad Smith | [@punkrockguy](https://twitter.com/punkrockguy) |
 | Charles Pluta | [@charlesjp](https://twitter.com/charlesjp) |
