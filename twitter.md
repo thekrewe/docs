@@ -23,7 +23,6 @@
 | Chris Kuhl | [@ChrisKuhl1](https://twitter.com/ChrisKuhl1) |
 | Chris Noyes | [@c_noyes](https://twitter.com/c_noyes) |
 | Chris Rhodes | [@chrisreboot](https://twitter.com/chrisreboot) |
-| Chris Rhodes | [@chrisreboot](https://twitter.com/chrisreboot) |
 | Chris Rivers | [@t3hcr](https://twitter.com/t3hcr) |
 | Christian Campbell | [@cthesoup](https://twitter.com/cthesoup) |
 | Chuck Richards | [@chuck_richards](https://twitter.com/chuck_richards) |
